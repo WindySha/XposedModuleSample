@@ -5,4 +5,4 @@ This is a xposed module project for showing how to hook java and native code.
 $ ./gradlew assembleDebug
 
 # Notice
-Native hook code can work in project [Xpatch](https://github.com/WindySha/Xpatch)
+Native hook code can work in project [Xpatch](https://github.com/WindySha/Xpatch) and [jdwp-xposed-injector](https://github.com/WindySha/jdwp-xposed-injector)
